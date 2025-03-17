@@ -1,0 +1,88 @@
+Title,Year of Publication,Article Link,keywords,Authors
+"Data Safety vs. App Privacy: Comparing the Usability of
+                    Android and iOS Privacy Labels",,https://arxiv.org/abs/2312.03918,,"Yanzi Lin, Jaideep Juneja, Eleanor Birrell, Lorrie Faith Cranor"
+"Honesty is the Best Policy: On the Accuracy of Apple Privacy
+Labels Compared to Apps' Privacy Policies",,https://arxiv.org/abs/2306.17063,,"Mir Masood Ali, David G. Balash, Chris Kanich, Adam J. Aviv"
+"ATLAS: Automatically Detecting Discrepancies Between Privacy
+                    Policies and Privacy Labels",,https://arxiv.org/abs/2306.09247,,"Akshath Jain, David Rodriguez, Jose M. del Alamo, Norman Sadeh"
+"Unpacking Privacy Labels: A Measurement and Developer Perspective on Google's
+                    Data Safety Section",,https://arxiv.org/abs/2306.08111,,"Rishabh Khandelwal, Asmit Nayak, Paul Chung, Kassem Fawaz"
+"The Overview of Privacy Labels
+                    and their Compatibility with Privacy Policies",,https://arxiv.org/abs/2303.08213,,"Rishabh Khandelwal, Asmit Nayak, Paul Chung, Kassem Fawaz"
+"Lalaine: Measuring and Characterizing Non-Compliance of Apple Privacy
+Labels at Scale",,https://arxiv.org/abs/2206.06274,,"Yue Xiao, Zhengyi Li, Yue Qin, Xiaolong Bai, Jiale Guan, Xiaojing Liao, Luyi Xing"
+Longitudinal analysis of privacy labels in the apple app store,2022.0,https://arxiv.org/abs/2206.02658,,"DG Balash, MM Ali, X Wu, C Kanich, AJ Aviv"
+PPMark: An Architecture to Generate Privacy Labels Using TF-IDF Techniques and the Rabin Karp Algorithm,2016.0,,,"Diego Roberto Gonçalves de Pontes, Sergio Donizetti Zorzo"
+Studying the effectiveness of android application permissions requests,2013.0,,Privacy;Software;Facebook;Smart phones;Visualization;Androids;Humanoid robots,"Benton, Kevin and Camp, L. Jean and Garg, Vaibhav"
+Privacy rating: A user-centered approach for visualizing data handling practices of online services,2021.0,https://ieeexplore.ieee.org/abstract/document/9612118/,,"S Barth, D Ionita, MDT De Jong"
+Consent Receipts for a Usable and Auditable Web of Personal Data,2022.0,,Law;Privacy;General Data Protection Regulation;Companies;Europe;Usability;Technological innovation;Accountability;consent;GDPR;personal data;web;consent receipt,"Jesus, Vitor and Pandit, Harshvardhan J."
+Helping mobile application developers create accurate privacy labels,2022.0,https://ieeexplore.ieee.org/abstract/document/9799337/,,"J Gardner, Y Feng, K Reiman, Z Lin"
+Comparing privacy label disclosures of apps published in both the App Store and Google Play Stores,2023.0,https://ieeexplore.ieee.org/abstract/document/10190677/,,"D Rodriguez, A Jain, JM Del Alamo"
+An empirical study of privacy labels on the Apple iOS mobile app store,2022.0,,Data privacy;Privacy;Regulators;Decision making;Data collection;Mobile applications;Software engineering;iOS;Apps;Privacy,"Scoccia, Gian Luca and Autili, Marco and Stilo, Giovanni and Inverardi, Paola"
+Sharing is not always caring: Delving into personal data transfer compliance in Android apps,2024.0,https://ieeexplore.ieee.org/abstract/document/10379677/,,"D Rodriguez, JM Del Alamo, C Fernández-Aller"
+Towards Fine-Grained Localization of Privacy Behaviors,2023.0,,Location awareness;Privacy;Statistical analysis;Source coding;Software;Behavioral sciences;Faces;privacy labels;privacy-behavior;Android applications;machine learning,"Jain, Vijayanta and Ghanavati, Sepideh and Peddinti, Sai Teja and McMillan, Collin"
+ChildShield: A rating system for assessing privacy and security of internet of toys,2021.0,https://www.sciencedirect.com/science/article/pii/S0736585320301362,"Internet of Toys (IoToys), Smart toys, Privacy, Security, Consumer awareness, IoT, Label",Sonal Allana and Shailey Chawla
+Privacy icons as a component of effective transparency and controls under the GDPR: effective data protection by design based on art. 25 GDPR,2024.0,https://www.sciencedirect.com/science/article/pii/S0267364923001346,"Privacy icons, Data protection by design, Privacy by design, GDPR, Effective transparency, Effective controls, UX / UI design, legal design",Max {von Grafenstein} and Isabel Kiefaber and Julie Heumüller and Valentin Rupp and Paul Graßl and Otto Kolless and Zsófia Puzst
+Understanding ios privacy nutrition labels: An exploratory large-scale analysis of app store data,2022.0,https://dl.acm.org/doi/abs/10.1145/3491101.3519739,,"Y Li, D Chen, T Li, Y Agarwal, LF Cranor"
+Towards detecting device fingerprinting on iOS with API function hooking,2023.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85161441381&doi=10.1145%2f3590777.3590790&partnerID=40&md5=6d4fe96a26fed3643de83aba8d26f2cb,,"Heid, Kris and Andrae, Vincent and Heider, Jens"
+Enhancing consumer perceptions of privacy and trust: a GDPR label perspective,2022.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129173240&doi=10.1108%2fITP-09-2021-0706&partnerID=40&md5=42e2ff945b8f75e7f45f443a11fb95f1,,"Fox, Grace and Lynn, Theo and Rosati, Pierangelo"
+Comparing Privacy Labels of Applications in Android and iOS,2023.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180008609&doi=10.1145%2f3603216.3624967&partnerID=40&md5=9e5a0d92f9d1bb51f01599a12bb5a945,,"Khandelwal, Rishabh and Nayak, Asmit and Chung, Paul and Fawaz, Kassem"
+Understanding challenges for developers to create accurate privacy nutrition labels,2022.0,https://dl.acm.org/doi/abs/10.1145/3491102.3502012,,"T Li, K Reiman, Y Agarwal, LF Cranor"
+"Privacy nutrition labels, App Store and the GDPR: Unintended consequences?",2022.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146994870&partnerID=40&md5=6f6813e36a98f2a6c15782dcb4dead1b,,"Novović, Miloš"
+How Android Apps Break the Data Minimization Principle: An Empirical Study,2023.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85178998520&doi=10.1109%2fASE56229.2023.00141&partnerID=40&md5=6391a32304087c6e791df76ad3119675,,"Zhang, Shaokun and Lei, Hanwen and Wang, Yuanpeng and Li, Ding and Guo, Yao and Chen, Xiangqun"
+Freely Given Consent?: Studying Consent Notice of Third-Party Tracking and Its Violations of GDPR in Android Apps,2022.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85143071146&doi=10.1145%2f3548606.3560564&partnerID=40&md5=b0b11ebc9c3eea8fe87b7fcd2919aa8d,,"Nguyen, Trung Tin and Backes, Michael and Stock, Ben"
+Mobile-app privacy nutrition labels missing key ingredients for success,2022.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85148068205&doi=10.1145%2f3563967&partnerID=40&md5=25e0b70d3151ca7d2da284e416cb8f49,,"Cranor, Lorrie Faith"
+The death of privacy policies: How app stores shape GDPR compliance of apps,2024.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85192146381&doi=10.14763%2f2024.2.1757&partnerID=40&md5=cf3fdbf1c8c4ed4896e0915ef3f55585,,"Krämer, Julia"
+Goodbye tracking? Impact of iOS app tracking transparency and privacy labels,2022.0,https://dl.acm.org/doi/abs/10.1145/3531146.3533116,,"K Kollnig, A Shuba, M Van Kleek, R Binns"
+A multidisciplinary definition of privacy labels,2022.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85129317908&doi=10.1108%2fICS-06-2021-0080&partnerID=40&md5=7a8a5faf404d46161729c492a70ba576,,"Johansen, Johanna and Pedersen, Tore and Fischer-Hübner, Simone and Johansen, Christian and Schneider, Gerardo and Roosendaal, Arnold and Zwingelberg, Harald and Sivesind, Anders Jakob and Noll, Josef"
+Exploring User Motivations Behind iOS App Tracking Transparency Decisions,2023.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85160007467&doi=10.1145%2f3544548.3580654&partnerID=40&md5=b48f8b9dd13393c4354b5a4bb35a1e5f,,"Hutton, Hannah J. and Ellis, David A."
+Privacy rules: approach in the label or textual format,2016.0,https://core.ac.uk/download/pdf/301369254.pdf,,"S Zorzo, D Pontes, J Mello, D Dias"
+Communicating compliance: developing a GDPR privacy label,2018.0,https://scholar.archive.org/work/ro2fgr3bk5huzoyrmgb56vjzmy/access/wayback/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1395&context=amcis2018,,"G Fox, C Tonge, T Lynn, J Mooney"
+"A ""nutrition label"" for privacy",2009.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-70350731253&doi=10.1145%2f1572532.1572538&partnerID=40&md5=f96efa164a1c3404085402df590a0fdb,,"Kelley, Patrick Gage and Bresee, Joanna and Cranor, Lorrie Faith and Reeder, Robert W."
+"AUTOMATING ACCOUNTABILITY? PRIVACY POLICIES, DATA TRANSPARENCY, AND THE THIRD PARTY PROBLEM",2021.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85126561713&doi=10.3138%2futlj-2020-0136&partnerID=40&md5=a9d84d64d1972af647da9059c407f0db,,"Lie, David and Austin, Lisa M. and Sun, Peter Yi Ping and Qiu, Wenjun"
+How to make privacy policies both GDPR-compliant and usable,2018.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059989091&doi=10.1109%2fCyberSA.2018.8551442&partnerID=40&md5=15d153ec45c92ceebbbf9384c58adf72,,"Renaud, Karen and Shepherd, Lynsay A."
+Designing a privacy label: assisting consumer understanding of online privacy practices,2009.0,https://doi.org/10.1145/1520340.1520484,"privacy policies, privacy, labeling, information design","Kelley, Patrick Gage"
+An Informative Security and Privacy 'Nutrition' Label for Internet of Things Devices,2022.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85122307368&doi=10.1109%2fMSEC.2021.3132398&partnerID=40&md5=167b5bb0cdb40fcf76336b3c39290809,,"Emami-Naeini, Pardis and Dheenadhayalan, Janarth and Agarwal, Yuvraj and Cranor, Lorrie Faith"
+Privacy labels should go to the dogs,2021.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85130854144&doi=10.1145%2f3493842.3493888&partnerID=40&md5=59c7d45e486623b6bb3e583d679f9c6d,,"McParlan, James and Van Der Linden, Dirk"
+An Analysis of Web Tracking Domains in Mobile Applications,2021.0,https://www.scopus.com/inward/record.uri?eid=2-s2.0-85108994856&doi=10.1145%2f3447535.3462507&partnerID=40&md5=7fe48b08fc36fbf24f4b75d053af6885,,"Krupp, Brian and Hadden, Joshua and Matthews, Malik"
+"Evaluation Of The Reliability Of Using The Prototype Ppmark - A Tool To
+Support The Computer Human Interaction In Readings The Privacy Policies
+- Using The GQM And TAM Models",2017.0,,,"Goncalves Pontes, Diego Roberto and Zorzo, Sergio Donizetti and Moreira
+de Mello, Jose Santiago"
+On using privacy labels for visualizing the privacy practice of SMEs: challenges and research directions,2022.0,https://dl.acm.org/doi/abs/10.1145/3543434.3543480,,"M S. Bargh, M van de Mosselaar, P Rutten"
+Matcha: An IDE Plugin for Creating Accurate Privacy Nutrition Labels,2024.0,https://doi.org/10.1145/3643544,,"Li, Tianshi and Cranor, Lorrie Faith and Agarwal, Yuvraj and Hong, Jason I."
+Is a Trustmark and QR code enough? The effect of IoT security and privacy label information complexity on consumer comprehension and behavior,2024.0,https://dl.acm.org/doi/abs/10.1145/3613904.3642011,,"CC Chen, D Shu, H Ravishankar, X Li"
+Ask the experts: What should be on an IoT privacy and security label?,2020.0,https://ieeexplore.ieee.org/abstract/document/9152770/,,"P Emami-Naeini, Y Agarwal, LF Cranor"
+Keeping privacy labels honest,2022.0,https://petsymposium.org/popets/2022/popets-2022-0119.php,,"S Koch, M Wessels, B Altpeter"
+Specification for CMU IoT security and privacy label,2021.0,https://www.iotsecurityprivacy.org/downloads/Privacy_and_Security_Specifications.pdf,,"P Emami-Naeini, Y Agarwal"
+Do privacy labels answer users' privacy questions?,2023.0,https://par.nsf.gov/biblio/10426770,,"S Zhang, N Sadeh"
+Impact of App Privacy Label Disclosure on Demand: An Empirical Analysis,2022.0,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4588747,,"R Garg, R Telang"
+Iot security and privacy labels,2019.0,https://link.springer.com/chapter/10.1007/978-3-030-21752-5_9,,"Y Shen, PA Vervier"
+How usable are ios app privacy labels?,2022.0,https://petsymposium.org/popets/2022/popets-2022-0106.php,,"S Zhang, Y Feng, Y Yao, LF Cranor"
+The supply and demand for data privacy: Evidence from mobile apps,2021.0,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3987541,,"B Bian, X Ma, H Tang"
+Toward the cure of privacy policy reading phobia: Automated generation of privacy nutrition labels from privacy policies,2023.0,https://arxiv.org/abs/2306.10923,,"S Pan, T Hoang, D Zhang, Z Xing, X Xu, Q Lu"
+Understanding online privacy—a systematic review of privacy visualizations and privacy by design guidelines,2022.0,https://dl.acm.org/doi/abs/10.1145/3502288,,"S Barth, D Ionita, P Hartel"
+Privacy Label Wiz: A Tool to Help iOS App Developers Create Accurate Privacy Labels,,https://www.usenix.org/system/files/soups2022-poster4_gardner_final.pdf,,"J Gardner, Y Feng, A Jain, N Sadeh"
+Usability of Privacy Control and Disclosure Mechanisms,2023.0,https://search.proquest.com/openview/4256e1cb2a3688feb704a223cfa2009a/1?pq-origsite=gscholar&cbl=18750&diss=y,,DG Balash
+Ask the Consumers: What Should be on IoT Privacy & Security Labels?,,https://www.usenix.org/system/files/soups2023-poster10_chen_claire_abstract_final.pdf,,"C Chen, H Ravishankar, D Shu, L Jain, Y Zeng"
+Necessary but not sufficient: Standardized mechanisms for privacy notice and choice,2012.0,https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/jtelhtel10&section=22,,LF Cranor
+Creating accurate privacy nutrition labels through cross-platform code annotation,2023.0,https://search.proquest.com/openview/adf01bdfd35c82fbf88cac0e1fd4d4fe/1?pq-origsite=gscholar&cbl=18750&diss=y,,P Pathak
+Poli-see: An interactive tool for visualizing privacy policies,2020.0,https://dl.acm.org/doi/abs/10.1145/3411497.3420221,,"W Guo, J Rodolitz, E Birrell"
+Dynamic iOS Privacy Analysis: Verifying App Store Privacy Labels,2021.0,https://scholar.archive.org/work/5nalmn4diveu5asi53bbuzsw3a/access/wayback/https://repositum.tuwien.at/bitstream/20.500.12708/19197/1/Jirout%20Thomas%20-%202021%20-%20Dynamic%20iOS%20Privacy%20Analysis%20Verifying%20App%20Store%20Privacy...pdf,,TW Jirout
+Privacy Annotations: Designing Privacy Support for Developers,2023.0,http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/home/ftp/hcii/CMU-HCII-22-107.pdf,,T Li
+The use of privacy icons and standard contract terms for generating consumer trust and confidence in digital services,2014.0,https://core.ac.uk/download/pdf/30441688.pdf,,"L Edwards, W Abel"
+Automated Detection and Analysis of Data Practices Using A Real-World Corpus,2024.0,https://arxiv.org/abs/2402.11006,,"M Srinath, P Venkit, M Badillo, F Schaub"
+SoK: Three facets of privacy policies,2020.0,https://dl.acm.org/doi/abs/10.1145/3411497.3420216,,"V Morel, R Pardo"
+Increasing Users' Privacy Awareness in the Internet of Things: Design Space and Sample Scenarios,2023.0,https://library.oapen.org/bitstream/handle/20.500.12657/76226/1/978-3-031-28643-8.pdf#page=322,,"S Prange, F Alt"
+Envisioning tool support for designing privacy-aware internet of thing applications,2021.0,https://ieeexplore.ieee.org/abstract/document/9351837/,,"C Perera, M Barhamgi"
+SeePrivacy: Automated Contextual Privacy Policy Generation for Mobile Applications,2023.0,https://arxiv.org/abs/2307.01691,,"S Pan, Z Tao, T Hoang, D Zhang, Z Xing, X Xu"
+iHunter: Hunting Privacy Violations at Scale in the Software Supply Chain on iOS,,https://www.usenix.org/system/files/sec24fall-prepub-85-liu-dexin.pdf,,"D Liu, Y Xiao, C Zhang, K Xie, X Bai, S Zhang, L Xing"
+Nano-notice: Privacy disclosure at a mobile scale,2013.0,https://scholarlypublishingcollective.org/psup/information-policy/article-abstract/3/1/331/314353,,"AM McDonald, T Lowenthal"
+The Privacy-Value-App Relationship and the Value-Centered Privacy Assistant,2023.0,https://arxiv.org/abs/2308.05700,,"SE Carter, M d'Aquin, D Spagnuelo, I Tiddi"
+The {OK} Is Not Enough: A Large Scale Study of Consent Dialogs in Smartphone Applications,2023.0,https://www.usenix.org/conference/usenixsecurity23/presentation/koch,,"S Koch, B Altpeter, M Johns"
+Detection of Inconsistencies between Guidance Pages and Actual Data Collection of Third-party SDKs in Android Apps,2024.0,https://www.researchgate.net/profile/Hiroki-Inayoshi/publication/380430079_Detection_of_Inconsistencies_between_Guidance_Pages_and_Actual_Data_Collection_of_Third-party_SDKs_in_Android_Apps/links/663c4ac77091b94e930cd893/Detection-of-Inconsistencies-between-Guidance-Pages-and-Actual-Data-Collection-of-Third-party-SDKs-in-Android-Apps.pdf,,"H Inayoshi, S Kakei, S Saito"
+Designing Privacy Notices: Supporting User Understanding and Control,2013.0,https://search.proquest.com/openview/7287770e320cad6771b3220ca1f9759f/1?pq-origsite=gscholar&cbl=18750,,PG Kelley
+"Abandon All Hope Ye Who Enter Here: A Dynamic, Longitudinal Investigation of Android's Data Safety Section",,https://www.usenix.org/system/files/sec24fall-prepub-399-arkalakis.pdf,,"I Arkalakis, M Diamantaris, S Moustakas, S Ioannidis"
+Understanding and measuring privacy violations in Android apps,2023.0,https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/36342,,TT Nguyen
+A Conceptual Consent Request Framework for Mobile Devices,2023.0,https://www.mdpi.com/2078-2489/14/9/515,,"O Drozd, S Kirrane"
+Informed Consent? A Study of “Consent Dialogs” on Android and iOS,2022.0,https://benjamin-altpeter.de/doc/thesis-consent-dialogs.pdf,,B Altpeter
