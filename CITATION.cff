@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the paper below."
+title: "Supplementary materials: Privacy Nutrition Labels: Promise, Practice, and Paradoxes in Communicating Privacy"
+type: dataset
+repository-code: "https://github.com/bhusalb/privacy-label-review-paper"
+authors:
+  - family-names: Bhusal
+    given-names: Bishnu
+    orcid: "https://orcid.org/0000-0001-7522-5878"
+  - family-names: Ma
+    given-names: Yuanye
+  - family-names: Chadha
+    given-names: Rohit
+preferred-citation:
+  type: conference-paper
+  title: "Privacy Nutrition Labels: Promise, Practice, and Paradoxes in Communicating Privacy"
+  authors:
+    - family-names: Bhusal
+      given-names: Bishnu
+    - family-names: Ma
+      given-names: Yuanye
+    - family-names: Chadha
+      given-names: Rohit
+  collection-title: "HCI International 2025 Posters"
+  publisher:
+    name: "Springer Nature Switzerland"
+  start: 18
+  end: 28
+  year: 2025
+  doi: "10.1007/978-3-031-94159-7_3"
